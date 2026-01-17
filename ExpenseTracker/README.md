@@ -13,7 +13,7 @@ Functions of app are user's register and auth, CRUD-operations with budgets, exp
 
 Quick start: 
 1. Clone this repository
-2. Setup database connection string in appsetings.json
+2. Setup database connection string in appsettings.json
 3. Add migrations
 4. Run app
 
