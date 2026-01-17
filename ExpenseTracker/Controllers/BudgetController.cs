@@ -1,8 +1,6 @@
-﻿using ExpenseTracker.Api.Database;
-using ExpenseTracker.Api.DTOs.Budget;
+﻿using ExpenseTracker.Api.DTOs.Budget;
 using ExpenseTracker.Api.DTOs.Budget.Sorting;
 using ExpenseTracker.Api.DTOs.Common;
-using ExpenseTracker.Api.Entities;
 using ExpenseTracker.Api.Extensions;
 using ExpenseTracker.Api.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;

@@ -1,9 +1,5 @@
-﻿using System.Runtime.CompilerServices;
-using ExpenseTracker.Api.DTOs.Account;
+﻿using ExpenseTracker.Api.DTOs.Account;
 using ExpenseTracker.Api.DTOs.Category;
-using ExpenseTracker.Api.DTOs.User;
-using ExpenseTracker.Api.Entities;
-using Microsoft.AspNetCore.Identity;
 
 namespace ExpenseTracker.Api.DTOs.Transaction
 {

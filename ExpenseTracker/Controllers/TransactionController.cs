@@ -1,9 +1,6 @@
-﻿using Azure;
-using ExpenseTracker.Api.Database;
-using ExpenseTracker.Api.DTOs.Common;
+﻿using ExpenseTracker.Api.DTOs.Common;
 using ExpenseTracker.Api.DTOs.Transaction;
 using ExpenseTracker.Api.DTOs.Transaction.Sorting;
-using ExpenseTracker.Api.Entities;
 using ExpenseTracker.Api.Extensions;
 using ExpenseTracker.Api.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;

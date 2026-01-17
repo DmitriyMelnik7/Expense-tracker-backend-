@@ -9,7 +9,6 @@ using ExpenseTracker.Api.Services.Interfaces;
 using FluentValidation;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Update;
 
 namespace ExpenseTracker.Api.Services.Implementations
 {

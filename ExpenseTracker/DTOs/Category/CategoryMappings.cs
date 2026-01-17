@@ -1,6 +1,4 @@
-﻿using ExpenseTracker.Api.DTOs.Category;
-
-namespace ExpenseTracker.Api.DTOs.Category
+﻿namespace ExpenseTracker.Api.DTOs.Category
 {
     public static class CategoryMappings
     {

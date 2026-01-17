@@ -1,5 +1,4 @@
-﻿using Azure;
-using ExpenseTracker.Api.DTOs.Category;
+﻿using ExpenseTracker.Api.DTOs.Category;
 using ExpenseTracker.Api.DTOs.Category.Sorting;
 using ExpenseTracker.Api.DTOs.Common;
 using ExpenseTracker.Api.Extensions;

@@ -1,6 +1,4 @@
-﻿using Microsoft.Identity.Client;
-
-namespace ExpenseTracker.Api.DTOs.Common
+﻿namespace ExpenseTracker.Api.DTOs.Common
 {
     public sealed class PagedResult<T>
     {

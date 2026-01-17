@@ -2,7 +2,6 @@
 using ExpenseTracker.Api.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Identity.Client;
 
 namespace ExpenseTracker.Api.Controllers
 {

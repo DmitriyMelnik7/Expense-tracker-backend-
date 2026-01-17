@@ -1,6 +1,4 @@
-﻿using ExpenseTracker.Api.Entities;
-
-namespace ExpenseTracker.Api.DTOs.Account
+﻿namespace ExpenseTracker.Api.DTOs.Account
 {
     public sealed class AccountDto
     {

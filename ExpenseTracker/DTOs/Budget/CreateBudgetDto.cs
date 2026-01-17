@@ -1,7 +1,6 @@
 ﻿using ExpenseTracker.Api.Database;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
-using System.Data.Common;
 
 namespace ExpenseTracker.Api.DTOs.Budget
 {

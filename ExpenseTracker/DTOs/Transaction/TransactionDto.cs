@@ -1,6 +1,5 @@
 ﻿using ExpenseTracker.Api.DTOs.Account;
 using ExpenseTracker.Api.DTOs.Category;
-using ExpenseTracker.Api.DTOs.User;
 
 namespace ExpenseTracker.Api.DTOs.Transaction
 {

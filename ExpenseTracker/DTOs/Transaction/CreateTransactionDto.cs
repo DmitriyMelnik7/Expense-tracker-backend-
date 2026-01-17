@@ -1,8 +1,6 @@
 ﻿using ExpenseTracker.Api.Database;
-using ExpenseTracker.Api.Entities;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
 
 namespace ExpenseTracker.Api.DTOs.Transaction
 {

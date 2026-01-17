@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace ExpenseTracker.Api.DTOs.Budget
+﻿namespace ExpenseTracker.Api.DTOs.Budget
 {
     public static class BudgetMapping
     {

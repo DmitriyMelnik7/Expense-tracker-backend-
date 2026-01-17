@@ -1,7 +1,6 @@
 ﻿using ExpenseTracker.Api.DTOs.Account.Sorting;
 using ExpenseTracker.Api.DTOs.Common;
 using FluentValidation;
-using Microsoft.EntityFrameworkCore.Query;
 
 namespace ExpenseTracker.Api.DTOs.Account
 {

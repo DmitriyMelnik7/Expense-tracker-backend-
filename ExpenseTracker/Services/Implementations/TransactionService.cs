@@ -1,5 +1,4 @@
-﻿using Azure;
-using ExpenseTracker.Api.Database;
+﻿using ExpenseTracker.Api.Database;
 using ExpenseTracker.Api.DTOs.Account;
 using ExpenseTracker.Api.DTOs.Common;
 using ExpenseTracker.Api.DTOs.Transaction;
