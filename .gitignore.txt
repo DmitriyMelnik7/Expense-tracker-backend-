@@ -1,9 +1,0 @@
-.vs/
-bin/
-obj/
-[Bb]in/
-[Oo]bj/
-project.lock.json
-project.fragment.lock.json
-artifacts/
-*.log
